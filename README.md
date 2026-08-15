@@ -5,8 +5,10 @@ dynamic nested sampling.
 
 ## Installation
 
-Just clone the repo, ya'll know how to do it ;)
-
+Just clone the repo:
+```bash
+https://github.com/kianfouladi-gif/Bachelor-Thesis-code.git
+```
 ## Terms of usage
 
 If the code is used, you must cite my Bachelor thesis; just use this Bibtex citation:
